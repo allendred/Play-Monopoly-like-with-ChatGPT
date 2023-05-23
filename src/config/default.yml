@@ -1,0 +1,5 @@
+dice_num: 1
+dice_faces: 6
+init_money: 50
+board: config/default-board.yml
+prompts: config/default-prompts.yml

@@ -1,0 +1,86 @@
+board:
+  - stage: 1
+    event: null
+    description: "Starting position"
+  - stage: 2
+    event: forward
+    value: 3
+    description: "You found an abandoned bicycle and rode it forward, accelerating by three steps."
+  - stage: 3
+    event: null
+    description: "You walked past a beautiful stream"
+  - stage: 4
+    event: backward
+    value: 2
+    description: "You fell into a trap and moved backward by two steps."
+  - stage: 5
+    event: null
+    description: "You saw a very pretty flower"
+  - stage: 6
+    event: null
+    description: "You arrived at a mysterious forest"
+  - stage: 7
+    event: forward
+    value: 2
+    description: "You found a shortcut and moved forward by two steps"
+  - stage: 8
+    event: null
+    description: "You found an ancient castle"
+  - stage: 9
+    event: backward
+    value: 3
+    description: "You were attacked by a ferocious beast and moved backward by three steps"
+  - stage: 10
+    event: null
+    description: "You climbed a high mountain"
+  - stage: 11
+    event: null
+    description: "You arrived at a desert"
+  - stage: 12
+    event: forward
+    value: 4
+    description: "You found a magical portal and jumped forward by four steps"
+  - stage: 13
+    event: null
+    description: "You saw a beautiful sunset"
+  - stage: 14
+    event: backward
+    value: 1
+    description: "You fell into a pit and moved backward by one step"
+  - stage: 15
+    event: null
+    description: "You met a friendly traveler"
+  - stage: 16
+    event: null
+    description: "You arrived at a magic forest"
+  - stage: 17
+    event: forward
+    value: 1
+    description: "You found a treasure and moved forward by one step"
+  - stage: 18
+    event: null
+    description: "You arrived at an ancient temple"
+  - stage: 19
+    event: backward
+    value: 2
+    description: "You were bitten by a poisonous snake and moved backward by two steps"
+  - stage: 20
+    event: null
+    description: "You boarded a spaceship"
+  - stage: 21
+    event: null
+    description: "You arrived at a battleground in outer space"
+  - stage: 22
+    event: forward
+    value: 3
+    description: "You found a spaceship and accelerated forward by three steps"
+  - stage: 23
+    event: null
+    description: "You arrived at a mysterious planet"
+  - stage: 24
+    event: backward
+    value: 1
+    description: "You got caught in a wormhole and moved backward by one step"
+  - stage: 25
+    event: win
+    description: "Congratulations, you have won the game!"
